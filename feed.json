@@ -1,0 +1,563 @@
+[
+    {
+        "cat": "url",
+        "plg": [
+            {
+                "url": "[daycount](https://github.com/TISUnion/daycount)",
+                "desc": "`!!day` 获得开服至今的天数"
+            },
+            {
+                "url": "[Seen](https://github.com/TISUnion/Seen/tree/MCDR)",
+                "desc": "摸鱼时长排名"
+            },
+            {
+                "url": "[TPS](https://github.com/Da-Dog/MCDR-TPS)",
+                "desc": "查看服务器TPS"
+            },
+            {
+                "url": "[Daytime](https://github.com/BelowZeroKelvin/MCDR-Daytime)",
+                "desc": "查看mc的时间"
+            },
+            {
+                "url": "[SystemInfo](https://github.com/eagle3236/SystemInfo)",
+                "desc": "查看系统信息"
+            },
+            {
+                "url": "[Seed](https://github.com/MCDReforged-Plugins/Seed)",
+                "desc": "查看服务器存档种子"
+            },
+            {
+                "url": "[Online](https://github.com/A-JiuA/Online)",
+                "desc": "查询多个服务器的玩家在线情况并在玩家登入时提示"
+            },
+            {
+                "url": "[seed](https://github.com/ChunkAsgore/seed)",
+                "desc": "适用于MCDReforged的用于查询服务器地图种子的插件。"
+            },
+            {
+                "url": "[Info](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "获取有用的服务器信息(CPU/内存/存档大小等)"
+            }
+        ]
+    },
+    {
+        "cat": "搜索",
+        "plg": [
+            {
+                "url": "[MCDR-WikiSearcher](https://github.com/GamerNoTitle/MCDR-WikiSearcher)",
+                "desc": "一个可以在游戏内搜索，点击链接出结果的wiki插件"
+            },
+            {
+                "url": "[FastSearch](https://github.com/HackerRouter/MCDR-FastSearch/)",
+                "desc": "在游戏中搜索任意内容"
+            },
+            {
+                "url": "[BilibiliParser](https://github.com/dogdie233/BilibiliParser)",
+                "desc": "解析哔哩哔哩各种信息并打印在MC服务器上"
+            },
+            {
+                "url": "[WikiRequests](https://github.com/lihuoran-oier/WikiRequests)",
+                "desc": "另一个Wiki插件，查询Wiki上是否有某页面并返回该页面链接，其他情况会报错"
+            }
+        ]
+    },
+    {
+        "cat": "坐标",
+        "plg": [
+            {
+                "url": "[Here](https://github.com/TISUnion/Here)",
+                "desc": "显示坐标并高亮玩家"
+            },
+            {
+                "url": "[DeathPos](https://github.com/Da-Dog/MCDR_DeathPos)",
+                "desc": "死亡坐标记录插件"
+            },
+            {
+                "url": "[DeiPos](https://github.com/Squaregentleman/MCDR-plugins)",
+                "desc": "玩家死亡私发死亡坐标"
+            },
+            {
+                "url": "[Waypoints](https://github.com/GamerNoTitle/MCDR-Waypoints)",
+                "desc": "全服共享型VolexMap路径点，让路径点成为共享潮流！"
+            },
+            {
+                "url": "[WarpR](https://github.com/Da-Dog/MCDR-Warp)",
+                "desc": "warp重制版, 坐标点插件, 坐标点传送[可选]"
+            }
+        ]
+    },
+    {
+        "cat": "计分板",
+        "plg": [
+            {
+                "url": "[StatsHelper](https://github.com/TISUnion/StatsHelper)",
+                "desc": "统计信息查询以及计分板创建"
+            },
+            {
+                "url": "[MCDR-Auto-Scoreboard](https://github.com/AngelicaRoot/MCDR-Auto-Scoreboard)",
+                "desc": "高度自定义的滚动计分板（自动换榜）插件"
+            },
+            {
+                "url": "[SChanger](https://github.com/HackerRouter/MCDR-ScoreboardChanger)",
+                "desc": "定时自动切换计分板"
+            },
+            {
+                "url": "[Fz-sDatapackImporter](https://github.com/Hendrix-Shen/Fz-sDatapackImporter)",
+                "desc": "一个用于将stats数据同步到Fz-sDatapack记分版的插件"
+            }
+        ]
+    },
+    {
+        "cat": "实用工具",
+        "plg": [
+            {
+                "url": "[Calculator](https://github.com/TISUnion/Calculator)",
+                "desc": "游戏内计算器"
+            },
+            {
+                "url": "[Task](https://github.com/TISUnion/Task)",
+                "desc": "工程任务进度管理"
+            },
+            {
+                "url": "[GameMode](https://github.com/Squaregentleman/MCDR-plugins)",
+                "desc": "切换玩家模式到旁观，切换回来会回到原来的位置(高级灵魂出窍)"
+            },
+            {
+                "url": "[petmove](https://github.com/63815af756f0357940c666d2ae1c801d/petmove)",
+                "desc": "玩家间转移动物（如猫/狗等）的所有权"
+            },
+            {
+                "url": "[PCRC-MCDR](https://github.com/TISUnion/PCRC-MCDR)",
+                "desc": "服务端录制插件"
+            },
+            {
+                "url": "[GamemodeR](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "计时收费切换玩家模式到旁观，切换回来会回到原来的位置(高级灵魂出窍)"
+            },
+            {
+                "url": "[PerimeterMaker](https://github.com/wyf0762/MCDReforged-Plugins)",
+                "desc": "在创造/镜像服中快速制造空置域，逐层操作，防止卡顿"
+            },
+            {
+                "url": "[SinglePlayerSleep](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "允许在服务器中单人睡觉跳过夜晚"
+            },
+            {
+                "url": "[AdvancedCalculator](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "提供游戏内多种便捷计算"
+            }
+        ]
+    },
+    {
+        "cat": "假人",
+        "plg": [
+            {
+                "url": "[CarpetBotList](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList)",
+                "desc": "查看地毯端假人"
+            },
+            {
+                "url": "[AutoBot](https://github.com/SCT-Technology/AutoBot)",
+                "desc": "生成，批量生成地毯BOT(BOT组)"
+            },
+            {
+                "url": "[MCDR-bot](https://github.com/MCDReforged-Plugins/MCDR-bot)",
+                "desc": "使用 [pycraft](https://github.com/ammaraskar/pyCraft) 的假人插件"
+            },
+            {
+                "url": "[BotInit](https://github.com/MCDReforged-Plugins/BotInit)",
+                "desc": "存储机器人列表，一键放置/清除机器人"
+            }
+        ]
+    },
+    {
+        "cat": "指令助手",
+        "plg": [
+            {
+                "url": "[CarpetFeatureHelper](https://github.com/TISUnion/CarpetFeatureHelper)",
+                "desc": "给非 op 以提供开关 carpet 特性的权限"
+            },
+            {
+                "url": "[CommandPermissionReload](https://github.com/lihuoran-oier/CommandPermissionReload)",
+                "desc": "提供了一个通过将命令前的'/'字符换为\"!!\"而通过MCDReforged的权限系统可控制的方式执行命令"
+            }
+        ]
+    },
+    {
+        "cat": "娱乐",
+        "plg": [
+            {
+                "url": "[PlayerDropSkull](https://github.com/MCDReforged-Plugins/PlayerDropSkull)",
+                "desc": "玩家在死亡时掉落头颅"
+            },
+            {
+                "url": "[Hat](https://github.com/BelowZeroKelvin/MCDR-Hat)",
+                "desc": "将主手上的东西戴在头上"
+            },
+            {
+                "url": "[WebsocketBlh](https://github.com/ixiaohei-sakura/blh-blivedm)",
+                "desc": "使用Websocket的bilibili弹幕姬"
+            },
+            {
+                "url": "[BlackJack](https://github.com/Da-Dog/MCDR_BlackJack)",
+                "desc": "21点 扑克小游戏"
+            },
+            {
+                "url": "[TwentyFourPoints](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "24点经典数学游戏"
+            },
+            {
+                "url": "[Meow](https://github.com/HackerRouter/MCDR-Meow)",
+                "desc": "一个多功能聊天机器人.(比如切换地毯端选项等)"
+            },
+            {
+                "url": "[AIchat](https://github.com/A-jiu-a/AIchat)",
+                "desc": "一个使用腾讯AI的聊天机器人,并附带有道翻译"
+            },
+            {
+                "url": "[BeaconRGB](https://github.com/Well2333/BeaconRGB-calculating-software)",
+                "desc": "信标光柱染色辅助插件"
+            },
+            {
+                "url": "[Minigame](https://github.com/Jianguo-Nut/Minigame)",
+                "desc": "提升原版生存红石小游戏的游玩体验"
+            }
+        ]
+    },
+    {
+        "cat": "玩家交流",
+        "plg": [
+            {
+                "url": "[ChatBridge](https://github.com/TISUnion/ChatBridge)",
+                "desc": "跨服聊天"
+            },
+            {
+                "url": "[FastPost](https://github.com/HackerRouter/MCDR-FastPost/)",
+                "desc": "向一名离线玩家发送信息"
+            },
+            {
+                "url": "[Beep](https://github.com/TISUnion/Beep)",
+                "desc": "聊天时用 `@` 来提醒某人"
+            },
+            {
+                "url": "[Vote](https://github.com/Da-Dog/MCDR_Vote)",
+                "desc": "游戏内投票插件"
+            },
+            {
+                "url": "[QQChat](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "一个用于连接QQ和MC的聊天插件，附带查看在线玩家列表功能"
+            },
+            {
+                "url": "[ColoredChat](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "支持原版显示[Minecraft样式代码](https://minecraft-zh.gamepedia.com/%E6%A0%B7%E5%BC%8F%E4%BB%A3%E7%A0%81)的插件"
+            }
+        ]
+    },
+    {
+        "cat": "物品管理",
+        "plg": [
+            {
+                "url": "[MCDRpost](https://github.com/Flyky/MCDRpost)",
+                "desc": "一个用于邮寄/传送物品的MCDR插件"
+            },
+            {
+                "url": "",
+                "desc": ""
+            },
+            {
+                "url": "服务器管理",
+                "desc": ""
+            },
+            {
+                "url": "",
+                "desc": ""
+            },
+            {
+                "url": "公告/通知",
+                "desc": ""
+            },
+            {
+                "url": "",
+                "desc": ""
+            },
+            {
+                "url": "[joinMOTD](https://github.com/TISUnion/joinMOTD)",
+                "desc": "玩家加入服务器时显示欢迎信息及服务器列表"
+            },
+            {
+                "url": "[joinMOTD++](https://github.com/eagle3236/joinMOTD-plus-plus)",
+                "desc": "一个增强版的joinMOTD。功能丰富，推荐使用"
+            },
+            {
+                "url": "[Welcomer](https://github.com/hanbings/Welcomer)",
+                "desc": "进入游戏以Title形式发送一句随机的话给玩家"
+            },
+            {
+                "url": "[ANN](https://github.com/Da-Dog/MCDR_ANN)",
+                "desc": "定时公告"
+            },
+            {
+                "url": "[CustomMOTD](https://github.com/GamerNoTitle/CustomMOTD)",
+                "desc": "使用命令来修改服务器的MOTD（支持颜色代码）"
+            }
+        ]
+    },
+    {
+        "cat": "文件管理",
+        "plg": [
+            {
+                "url": "[QuickBackupM](https://github.com/TISUnion/QuickBackupM)",
+                "desc": "多槽位备份/回档插件"
+            },
+            {
+                "url": "[RegionFileUpdater](https://github.com/TISUnion/RegionFileUpdater)",
+                "desc": "用于镜像服的 region 文件更新"
+            },
+            {
+                "url": "[PermanentBackup](https://github.com/MCDReforged-Plugins/PermanentBackup)",
+                "desc": "创建永久的用 zip 压缩的备份"
+            },
+            {
+                "url": "[AutoBackup](https://github.com/Dark-Night-Base/AutoBackup)",
+                "desc": "借助 *rsync* 实现的自动增量备份（仅在 Linux 测试通过）"
+            },
+            {
+                "url": "[AutoQuickBackup](https://github.com/XiaoHuiHui233/AutoQuickBackup)",
+                "desc": "一个支持多槽位的自动快速备份＆回档插件，由QuickBackupM改编而来"
+            },
+            {
+                "url": "[AutoUpdate](https://github.com/Da-Dog/MCDR-AutoUpdate)",
+                "desc": "自动更新服务器核心"
+            },
+            {
+                "url": "[Regularbackup](https://github.com/TANGhz17/Regularbackup)",
+                "desc": "一个使用7zip自定义时间、压缩比的自动备份并压缩的插件"
+            },
+            {
+                "url": "[MirrorSync](https://github.com/wyf0762/MCDReforged-Plugins)",
+                "desc": "在镜像服内同步生存服存档至镜像服"
+            },
+            {
+                "url": "[Size](https://github.com/AngelicaRoot/MCDR-Size-Plugin)",
+                "desc": "用指令来获取服务器存档的大小"
+            },
+            {
+                "url": "[MapcrafterRender](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "自动渲染 `Mapcrafter` 地图"
+            }
+        ]
+    },
+    {
+        "cat": "插件管理",
+        "plg": [
+            {
+                "url": "[MCDP](https://github.com/Dark-Night-Base/MCDP)",
+                "desc": "借助 *git* 实现的插件管理工具"
+            },
+            {
+                "url": "[pget_pure](https://github.com/MCDReforged-Plugins/pget_pure)",
+                "desc": "显示友好的游戏内插件下载/更新工具"
+            },
+            {
+                "url": "[MCDR-get](https://github.com/Squaregentleman/MCDR-get)",
+                "desc": "mcdr的插件库"
+            },
+            {
+                "url": "[pget_for_MCDR](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "游戏内下载插件工具"
+            }
+        ]
+    },
+    {
+        "cat": "扫地大妈",
+        "plg": [
+            {
+                "url": "[MCDRClear](https://github.com/hanbings/MCDRClear)",
+                "desc": "可延迟清理的定时清理掉落物"
+            },
+            {
+                "url": "[MCDR-AutoCleaner](https://github.com/Forgot-Dream/MCDR-AutoCleaner)",
+                "desc": "又一个MCDR的扫地姬（可自定义方块白名单）"
+            },
+            {
+                "url": "[ClearItem](https://github.com/Squaregentleman/MCDR-plugins)",
+                "desc": "手动扫地大妈,执行后延迟15s后清扫,过程可以中断,可以添加白名单物品,玩家死亡阻止扫地5分钟(除非死亡玩家同意扫地)"
+            }
+        ]
+    },
+    {
+        "cat": "服务器控制",
+        "plg": [
+            {
+                "url": "[SimpleOP](https://github.com/MCDReforged-Plugins/SimpleOP)",
+                "desc": "使用 `!!op` 来获得 op，`!!restart` 来重启服务器。适用于创造服"
+            },
+            {
+                "url": "[StartStopHelper](https://github.com/MCDReforged-Plugins/StartStopHelper)",
+                "desc": "帮助管理员启动 / 停止 / 重启服务器，自定义执行前延迟"
+            },
+            {
+                "url": "[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)",
+                "desc": "一个镜像服的开启同步、开启插件，适用于服务器机器的建筑设计及红石调试"
+            },
+            {
+                "url": "[MWConsole](https://github.com/ixiaohei-sakura/MWConsole)",
+                "desc": "即插即用的MCDR网页控制台"
+            },
+            {
+                "url": "[simple_test](https://github.com/rickyhoho/simple_test)",
+                "desc": "一个MCDR的自检插件"
+            },
+            {
+                "url": "[cpu_temp](https://github.com/rickyhoho/cpu_temp)",
+                "desc": "一个MCDR定时检测cpu温度的插件"
+            },
+            {
+                "url": "[CrashRestart](https://github.com/MCDReforged-Plugins/CrashRestart)",
+                "desc": "一个检测崩服后自动重启服务器的插件，可调整最大崩溃容忍度"
+            }
+        ]
+    },
+    {
+        "cat": "玩家管理",
+        "plg": [
+            {
+                "url": "[Leader](https://github.com/SCT-Technology/Leader)",
+                "desc": "标记你为引领者，引领新人和观光团"
+            },
+            {
+                "url": "[AdvancedBan](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "高级Ban人插件, 可定时"
+            },
+            {
+                "url": "[AdvancedWhitelist](https://github.com/Da-Dog/MCDR-AdvancedWhitelist)",
+                "desc": "高级白名单，可以自定义白名单踢出消息及IP白名单"
+            },
+            {
+                "url": "[multi_whitelist](https://github.com/rickyhoho/multi_whitelist)",
+                "desc": "一个用于控制多服务器白名单的插件"
+            },
+            {
+                "url": "[RepairManager](https://github.com/wyf0762/RepairManager)",
+                "desc": "管理机器报修"
+            },
+            {
+                "url": "[mcwl](https://github.com/ChunkAsgore/mcwl)",
+                "desc": "适用于MCDReforged的一个白名单管理插件。"
+            },
+            {
+                "url": "[kick](https://github.com/ChunkAsgore/kick)",
+                "desc": "适用于MCDReforged的用于踢出玩家的插件。"
+            }
+        ]
+    },
+    {
+        "cat": "url",
+        "plg": [
+            {
+                "url": "[PlayerInfoAPI](https://github.com/TISUnion/PlayerInfoAPI)",
+                "desc": "获得实体信息 / 解析 Minecraft 风格的 json"
+            },
+            {
+                "url": "[stext](https://github.com/TISUnion/stext)",
+                "desc": "字体显示库"
+            },
+            {
+                "url": "[TitleAPI](https://github.com/hanbings/TitleAPI)",
+                "desc": "封装Title指令"
+            },
+            {
+                "url": "[ChatColor](https://github.com/dogdie233/ChatColor)",
+                "desc": "使发送彩色消息更简单"
+            },
+            {
+                "url": "[MinecraftItemAPI](https://github.com/Forgot-Dream/MinecraftItemAPI)",
+                "desc": "MC方块ID库"
+            },
+            {
+                "url": "[MCDR-CHA-ChatAPI](https://github.com/hanbings/MCDR-CHA-ChatAPI)",
+                "desc": "给酷Q机器人的http接口"
+            },
+            {
+                "url": "[vault](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "经济前置"
+            },
+            {
+                "url": "[ConfigAPI](https://github.com/hanbings/ConfigAPI)",
+                "desc": "快速创建配置文件"
+            },
+            {
+                "url": "[ProgressBar](https://github.com/Preliterate/ProgressBar)",
+                "desc": "封装`bossbar`指令"
+            },
+            {
+                "url": "[OnlinePlayerAPI](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "在线玩家API"
+            },
+            {
+                "url": "[CoolQAPI](https://github.com/zhang-anzhi/CoolQAPI)",
+                "desc": "酷Q和MCDR的插件开发API"
+            },
+            {
+                "url": "[ItemStack](https://github.com/dogdie233/ItemStack)",
+                "desc": "一个仿造Bukkit物品API的API"
+            },
+            {
+                "url": "[UUIDAPI](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "获取玩家UUID"
+            },
+            {
+                "url": "[MinecraftItemAPI](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "一个Minecraft物品API"
+            }
+        ]
+    },
+    {
+        "cat": "水桶革命",
+        "plg": [
+            {
+                "url": "[Economy](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "经济插件"
+            },
+            {
+                "url": "[LockChest](https://github.com/Da-Dog/MCDR_Lockchest)",
+                "desc": "锁箱子插件"
+            },
+            {
+                "url": "[currency](https://github.com/63815af756f0357940c666d2ae1c801d/currency)",
+                "desc": "多货币动态价格经济/商店系统"
+            },
+            {
+                "url": "[MagicChat](https://github.com/Da-Dog/MCDR-MagicChat)",
+                "desc": "展示手中物品"
+            },
+            {
+                "url": "[QuickAnswer](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "问在线玩家一些算术题"
+            },
+            {
+                "url": "[TPA](https://github.com/Da-Dog/MCDR-tpa)",
+                "desc": "传送请求"
+            },
+            {
+                "url": "[TeamAccount](https://github.com/zhang-anzhi/MCDReforgedPlugins)",
+                "desc": "团队账号"
+            },
+            {
+                "url": "[home](https://github.com/wyf0762/MCDReforged-Plugins)",
+                "desc": "设置家并在任何时候传送回家"
+            },
+            {
+                "url": "[back](https://github.com/EDHY-233/MCDR-Plugins)",
+                "desc": "显示与返回玩家死亡点"
+            },
+            {
+                "url": "[dimTeleport](https://github.com/wyf0762/MCDReforged-Plugins)",
+                "desc": "在主世界地狱末地之间传送"
+            },
+            {
+                "url": "[tpHelper](https://github.com/dream-rhythm/MCDRPlugin-tpHelper)",
+                "desc": "让非op可以使用tp、tpa及返回上次传送点"
+            }
+        ]
+    }
+]
