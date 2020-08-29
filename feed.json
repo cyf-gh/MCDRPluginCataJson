@@ -315,26 +315,6 @@
                 "desc": "一个用于邮寄/传送物品的MCDR插件"
             },
             {
-                "name": "",
-                "desc": ""
-            },
-            {
-                "name": "服务器管理",
-                "desc": ""
-            },
-            {
-                "name": "",
-                "desc": ""
-            },
-            {
-                "name": "公告/通知",
-                "desc": ""
-            },
-            {
-                "name": "",
-                "desc": ""
-            },
-            {
                 "name": "joinMOTD",
                 "git":"https://github.com/TISUnion/joinMOTD.git",
                 "desc": "玩家加入服务器时显示欢迎信息及服务器列表"
